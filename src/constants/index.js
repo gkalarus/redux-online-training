@@ -1,2 +1,3 @@
 export const EVENTS_CLEAR = 'EVENTS_CLEAR';
 export const EVENTS_DELETE = 'EVENTS_DELETE';
+export const EVENTS_FILTER = 'EVENTS_FILTER';
